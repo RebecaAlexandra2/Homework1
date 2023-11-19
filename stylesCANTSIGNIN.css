@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url("New_map.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(3px);
+}
+
+.Desktop2 {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+
+.CanTSignIn {
+    left: -3px;
+    top: 201px;
+    position: relative;
+    color: rgb(255, 254, 254);
+    font-size: 96px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.WowItSureSucksToBeYou {
+    left: 700px;
+    top: 351px;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.LostYourPassword {
+    left: 90px;
+    margin-top: 185px;
+    color: #979797;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.LostYourEmail {
+    left: 90px;
+    margin-top: 185px;
+    color: #979797;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.ForgotUsername {
+    left: 90px;
+    margin-top: 185px;
+    color: #979797;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+.PasswordProblems {
+    width: 307px;
+    height: 351px;
+    left: 559px;
+    top: 501px;
+    position: absolute;
+}
+
+.Rectangle7 {
+    width: 307px;
+    height: 351px;
+    left: 250px;
+    top: 0px;
+    position: relative;
+    background: white;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.TEXT2 {
+    width: 203px;
+    height: 21px;
+    left: 50px;
+    top: 232px;
+    position: absolute;
+    text-align: center;
+    color: #B8B8B8;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.EmailProblems {
+    width: 307px;
+    height: 351px;
+    left: 949px;
+    top: 501px;
+    position: absolute;
+}
+
+.TEXT3 {
+    width: 221px;
+    left: 45px;
+    top: 232px;
+    position: absolute;
+    text-align: center;
+    color: #B8B8B8;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.UserProblems {
+    width: 307px;
+    height: 351px;
+    left: 170px;
+    top: 501px;
+    position: absolute;
+}
+
+.TEXT1 {
+    width: 221px;
+    left: 40px;
+    top: 232px;
+    position: absolute;
+    text-align: center;
+    color: #B8B8B8;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+
+.svgIcon1 {
+    width: 145px;
+    height: 145px;
+    position:absolute;
+    margin-top: 530px;
+    margin-left: 5px;
+
+}
+
+.svgIcon2 {
+    width: 145px;
+    height: 145px;
+    position:absolute;
+    margin-top: 530px;
+    margin-left: 785px;
+}
+
+.svgIcon3 {
+    width: 145px;
+    height: 145px;
+    position:absolute;
+    margin-top: 530px;
+    margin-right: 785px;
+
+} 
+
+
